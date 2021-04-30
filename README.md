@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlienSeaRust
-- 👀 I’m interested in ... Making games
-- 🌱 I’m currently learning ... How to program
+- 👀 I’m interested in ... Making video games
+- 🌱 I’m currently re-learning ... How to program
 
 
 <!---
